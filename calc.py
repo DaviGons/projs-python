@@ -22,7 +22,6 @@ Made by Davi Gonçalves Silva
 ''')
 
 while True:
-
     number_1 = int(input('First Number:  '))
     number_2 = int(input('Second Number: '))
     operation = int(input('''
